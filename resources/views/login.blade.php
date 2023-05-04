@@ -81,5 +81,5 @@
 </html>
 
     <!-- END #content -->
-</x-layouts.master>
+
 </x-layouts>
